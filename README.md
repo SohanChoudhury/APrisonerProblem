@@ -16,7 +16,7 @@ Prior to being given the hats with their numbers, the prisoners are allowed to c
 
 ### The solution, kinda.
 
-I won't disclose the full solution here. You can easily download the [program](https://github.com/SohanChoudhury/APrisonerProblem/blob/master/APrisonerProblem.go) to see how, and below I'll discuss the framework of the code.
+I won't disclose the full solution here. You can easily download the [program](https://github.com/SohanChoudhury/APrisonerProblem/blob/master/APrisonerProblem.go) to see the specifics. Below, I'll discuss the framework of the code.
 
 As you may notice, my ```main()``` function, which is run from the console when the program is executed, is quite simple. I did this intentionally, as to showcase the benefits of Go as a function-based language.
 
