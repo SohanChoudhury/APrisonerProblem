@@ -2,7 +2,7 @@
 
 ### An interesting logic problem, the solution to which I coded using Go.
 
-In my second semester at Georgia Tech, I'm enrolled in CS 2051, a discrete math course. Our professor regularly gives us puzzles to work through, and this logic problem was one I found particularly challenging. As I'm currently learning [Go](https://golang.org), I decided to write a simple program to test whether my solution would work for larger test cases. 
+In my second semester at Georgia Tech, I'm taking CS 2051, a discrete math course. Our professor regularly gives us puzzles to work through, and this logic problem was one I found particularly challenging. As I'm currently learning [Go](https://golang.org), I decided to write a simple program to test whether my solution would work for larger test cases. 
 
 
 ### The problem.
