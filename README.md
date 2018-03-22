@@ -11,6 +11,8 @@ Suppose there are **x** prisoners, each of whom are simultaneously given a hat w
 
 Simultaenously, all prisoners will be asked to guess the number that is on their own hat. If every prisoner guesses incorrectly, all the prisoners are executed (grim, I know). If at least one of the prisoners guesses their number correctly, then all of the prisoners live.
 
+Each prisoner can see the numbers of the all the other prisoners, but they have no way of knwoing for sure what their own number is.
+
 Prior to being given the hats with their numbers, the prisoners are allowed to communicate a strategy as to how to guess their own number. Once the prisoners are assigned a number, there can no longer be any communication between prisoners. What is a strategy that the prisoners can use to ensure that they will all survive?
 
 
