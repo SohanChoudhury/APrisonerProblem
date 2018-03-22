@@ -28,7 +28,7 @@ func main() {
 }
 ```
 
-The semantics are quite straightforwards here. First, I'm using the ```create()``` function to initialize a slice that contains the desired **x** number of prisoners. I then give each of the prisoners a random number within the appropriate range.
+The semantics are quite straightforward here. First, I'm using the ```create()``` function to initialize a slice that contains the desired **x** number of prisoners. I then give each of the prisoners a random number within the appropriate range.
 
 ```go
 func create() []int {
